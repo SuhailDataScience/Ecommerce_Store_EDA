@@ -73,7 +73,7 @@ Segments customers into **Diamond / Gold / Silver / Bronze** tiers using Recency
 
 ---
 
-## 💡 Key Insights (Preview)
+## 💡 Key Insights 
 
 - The majority of orders (~97%) have a **"delivered"** status, indicating strong fulfilment.
 - **Credit card** is the dominant payment method, accounting for the largest share of total spend.
@@ -85,6 +85,6 @@ Segments customers into **Diamond / Gold / Silver / Bronze** tiers using Recency
 
 ## 👤 Author
 
-**Your Name**
+**Suhail**
 - GitHub: https://github.com/SuhailDataScience
 
