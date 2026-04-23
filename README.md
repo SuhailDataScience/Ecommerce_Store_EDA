@@ -71,6 +71,18 @@ Segments customers into **Diamond / Gold / Silver / Bronze** tiers using Recency
 - **Language**: SQL (DDL + DML + Window Functions + CTEs)
 - **Concepts Used**: Joins, Subqueries, CTEs, Aggregate Functions, Window Functions, Date Functions, CASE statements
 
+## 📂 Dataset
+
+This project uses the **Brazilian E-Commerce Public Dataset by Olist** from Kaggle.
+
+🔗 Dataset Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+Due to size constraints, the dataset is not included in this repository.  
+To run this project:
+1. Download the dataset from Kaggle
+2. Import the CSV files into MySQL
+3. Execute the provided SQL scripts
+
 ---
 
 ## 💡 Key Insights 
